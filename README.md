@@ -1,1 +1,1 @@
-# ecom-proj
+# task explanation
